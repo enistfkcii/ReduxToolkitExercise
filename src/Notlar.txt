@@ -1,0 +1,2 @@
+Redux kullanırken her yerden erişebilmek için index.js içinde ki App kısmının dışı Provider ile kaplanmalı.
+ayrıca props olarak da store.js de tanımlanmıs olan kısımda gönderilmeli.
